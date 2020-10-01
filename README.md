@@ -1,2 +1,2 @@
-# joytitrust.org
+# jewtrust.org
 joyti educational and welfare trust
