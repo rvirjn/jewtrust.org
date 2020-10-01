@@ -1,2 +1,2 @@
 # jewtrust.org
-joyti educational and welfare trust
+Jyoti educational and welfare trust
