@@ -103,12 +103,12 @@ html {
 }
 
 #big-banner {
-    background-image: url(../images/big-image.jpg);
+    background-image: url(../images/big-image.png);
 	background-position: center;
     background-size: cover;
     margin-top: 50px;
     width: 100%;
-    height: 550px;
+    height: 800px;
     background-repeat: no-repeat;
 }
 
